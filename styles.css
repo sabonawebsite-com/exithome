@@ -35,7 +35,12 @@ body {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
 }
-
+#timer {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--accent-color);
+}
 .logo-container {
     margin: 0 auto 1rem;
     width: 150px;
@@ -126,7 +131,9 @@ body {
     display: block;
     margin-bottom: 1rem;
 }
-
+#timer{
+    align-items: center;
+}
 .exam-title {
     display: block;
     font-size: 1.3rem;
